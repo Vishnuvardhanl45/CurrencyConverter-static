@@ -12,35 +12,9 @@ Maven
 HTML, CSS
 
 Description
-
 This project is a web-based currency converter application. It allows users to convert an amount from one currency to another using predefined exchange rates. The application is built using Java Servlets and JSP for the backend, and HTML/CSS for the frontend.
 
-Project Structure
-The project follows the standard Maven project structure:
-CurrencyConverter/
-├── pom.xml
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── example/
-│   │   │           └── ConvertCurrency.java
-│   │   ├── resources/
-│   │   └── webapp/
-│   │       ├── WEB-INF/
-│   │       │   └── web.xml
-│   │       ├── index.html
-│   │       ├── result.jsp
-│   │       └── styles.css
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── example/
-│                   └── ConvertCurrencyTest.java
-
-
 How to Run
-
 1.Download the repository
 https://github.com/Vishnuvardhanl45/CurrencyConverter-static
 
