@@ -18,7 +18,8 @@ How to Run
 1.Download the repository
 https://github.com/Vishnuvardhanl45/CurrencyConverter-static
 
-2.Open Visual Studio and extract the downloaded repository and add the folder to Vs Code and then open the terminator and run the below command
+2.Open Visual Studio and extract the downloaded repository and add the folder to Vs Code and then open the terminal.
+Run the below command-->
 mvn clean install
 
 3.Deploy the project to Apache Tomcat
